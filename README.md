@@ -16,15 +16,5 @@ As well as work in diffrent groups and teams:
 
 At the moment I'm looking out at broadining my real world experinences as a software developer. If you would like to contact me my email and phone number has been included below and if you are interested in collaborating I look forward to communicating further. 
 
-
-
-- 👋 Hi, I’m @JakobK-B
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JakobK-B/JakobK-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Email: hirise114@gmail.com
+Phone: (+61) 0447899204
